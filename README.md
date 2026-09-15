@@ -94,14 +94,5 @@ gestion des erreurs dans une pipeline
 Cette automatisation permet de détecter rapidement les erreurs avant de poursuivre vers les étapes suivantes d'un processus CI/CD.
 
 
-👩🏾‍💻 Auteur
-
-Cisse Ndeye
-
-Ingénieure DevOps / Systèmes & Réseaux / Cybersécurité
-Data & Programmation
-
-GitHub : https://github.com/cis-debug
-
 
 ⭐ Projet réalisé dans le cadre de ma pratique DevOps : Linux, Python, Docker, Git, GitHub Actions et automatisation.
